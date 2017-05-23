@@ -21,6 +21,8 @@ import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
 
+    //this is test
+
     SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd_HHmmss");
     public final static String EXTRA_MESSAGE = "com.yi.example.TapGathering.MESSAGE";
     private static final int REQUEST_WRITE_STORAGE = 1;
