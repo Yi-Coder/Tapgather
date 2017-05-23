@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TapGathering</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_startService">START</string>
+    <string name="button_stopService">STOP</string>
+    <string name="send_file">send</string>
+    <string name="delete_file">delete</string>
+    <string name="taplocation">taplocation</string>
+    <string name="tapapp">tapapp</string>
+</resources>
